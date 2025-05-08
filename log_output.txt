@@ -1,0 +1,28 @@
+[mush1830] Wed May 7 00:31:40 2025 +0900 Add files via upload 20eab20
+[mush1830] Wed May 7 00:19:27 2025 +0900 Add files via upload 70c0d56
+[mush1830] Wed May 7 00:19:19 2025 +0900 Delete use_case_descriptions/usecase description.xlsx be76dd5
+[yerin229] Tue May 6 22:55:10 2025 +0900 Merge branch 'main' of https://github.com/ssangyeon/software_engineering_project 9f29af3
+[sbeeno] Tue May 6 22:53:34 2025 +0900 edit requirementlist2 d067b3e
+[mush1830] Tue May 6 22:52:04 2025 +0900 Add files via upload af0f00f
+[mush1830] Tue May 6 22:51:54 2025 +0900 Delete use_case_descriptions/usecase description.xlsx 6c746da
+[yerin229] Tue May 6 22:46:36 2025 +0900 Update UseCaseDescription_1_10.csv 8b7a583
+[mush1830] Tue May 6 22:33:09 2025 +0900 Delete use_case_diagrams/usecase 다이어그램.png 30ba766
+[mush1830] Tue May 6 22:32:55 2025 +0900 Add files via upload c2daa51
+[yerin229] Tue May 6 22:13:37 2025 +0900 1_to_7__requirement_diagrams 5d44f7c
+[sbeeno] Tue May 6 22:07:58 2025 +0900 Add requirementlist2 7e0b300
+[mush1830] Tue May 6 21:57:24 2025 +0900 Add files via upload 2a92d89
+[mush1830] Tue May 6 21:57:14 2025 +0900 Delete use_case_descriptions/usecase 다이어그램.png 33d6e47
+[mush1830] Tue May 6 21:56:30 2025 +0900 Add files via upload 331451d
+[mush1830] Tue May 6 21:56:03 2025 +0900 Add files via upload 2f5560b
+[mush1830] Tue May 6 21:55:18 2025 +0900 Delete 8_to_13__usecase descriptions.xlsx 9765a1e
+[mush1830] Tue May 6 21:55:10 2025 +0900 Delete usecase 다이어그램.png 337fe07
+[mush1830] Tue May 6 21:50:45 2025 +0900 Rename usecase description.xlsx to 8_to_13__usecase descriptions.xlsx 9f5959c
+[mush1830] Tue May 6 21:46:23 2025 +0900 2team usecase description, diagram 232e9d7
+[yerin229] Tue May 6 00:48:27 2025 +0900 add_1_to_6_use_case_description 12aa093
+[ssangyeon] Mon May 5 22:35:30 2025 +0900 sy a37990d
+[ssangyeon] Mon May 5 22:32:20 2025 +0900 sangyeon 557e251
+[yerin229] Mon May 5 22:30:31 2025 +0900 1_to_7__requirement_diagrams 04c9baf
+[yerin229] Sat May 3 22:49:55 2025 +0900 1_to_7__requirement_diagrams 73f377c
+[yerin229] Sat May 3 22:49:17 2025 +0900 1_to_7__requirement_diagrams 64ed410
+[ssangyeon] Sat May 3 21:48:19 2025 +0900 1_to_3__requirement_diagrams fe77418
+[ssangyeon] Fri May 2 22:12:39 2025 +0900 Initial commit c1d3d34
